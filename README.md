@@ -1,1 +1,1 @@
-# A place to save Curriculum design
+# A place to store Curriculum design
